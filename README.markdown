@@ -6,7 +6,7 @@ Description
 
 [innotop](http://code.google.com/p/innotop/) is a 'top' clone for MySQL with more features and flexibility than similar tools.
 
-This is simple Chef recipe that can be used to install it on Engine Yard instance.
+This is simple Chef recipe that can be used to install it on Engine Yard environment.
 
 Usage:
 =====================================
