@@ -11,11 +11,11 @@ This is simple Chef recipe that can be used to install it on Engine Yard instanc
 Usage:
 =====================================
 
-* Grab the recipe - git checkout-index -a -f --prefix=~/path/to/your/ey-cloud-recipes/ey-innotop/
-
+1. Grab the recipe
+        git  checkout-index -a -f --prefix=~/path/to/your/ey-cloud-recipes/ey-innotop/
 Take care to adjust the path and dont forget the trailing slash.
 
-* Add require_recipe "ey-innotop" to main/recipes/default.rb
+2. Add require_recipe "ey-innotop" to main/recipes/default.rb
 
 NOTES
 =====================================
