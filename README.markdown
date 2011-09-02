@@ -15,7 +15,7 @@ Usage:
 
         $ git  checkout-index -a -f --prefix=/path/to/your/ey-cloud-recipes/ey-innotop/
 
-  Take care to adjust the path and don't forget the trailing slash.
+   Take care to adjust the path and don't forget the trailing slash.
 
 2. Add require_recipe "ey-innotop" to main/recipes/default.rb
 
